@@ -10,6 +10,8 @@ const router = createRouter({
       component: ()=>import("@/views/Test.vue")
     }
   ]
+
+  //6666
 })
 
 export default router
